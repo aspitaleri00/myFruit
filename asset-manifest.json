@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myFruit/static/css/main.073c9b0a.css",
+    "main.js": "/myFruit/static/js/main.3c341eb5.js",
+    "static/js/787.6e5773fd.chunk.js": "/myFruit/static/js/787.6e5773fd.chunk.js",
+    "static/media/green_fr.png": "/myFruit/static/media/green_fr.bb8fe6b96d9ee61ca721.png",
+    "static/media/slider_img.png": "/myFruit/static/media/slider_img.e67ecee5034e494baf25.png",
+    "static/media/about_img.png": "/myFruit/static/media/about_img.69d9618a1362feccb10a.png",
+    "static/media/f2.png": "/myFruit/static/media/f2.9b912d7080fb04d18e06.png",
+    "static/media/blog2.png": "/myFruit/static/media/blog2.14633a5c22bd82be19fd.png",
+    "static/media/blog3.png": "/myFruit/static/media/blog3.d0262f8729fc5b75356b.png",
+    "static/media/f1.png": "/myFruit/static/media/f1.854c88528d6b678fa661.png",
+    "static/media/blog1.png": "/myFruit/static/media/blog1.445b4afc97feef8d3c70.png",
+    "static/media/f3.png": "/myFruit/static/media/f3.f7c13b51170284d90770.png",
+    "index.html": "/myFruit/index.html",
+    "main.073c9b0a.css.map": "/myFruit/static/css/main.073c9b0a.css.map",
+    "main.3c341eb5.js.map": "/myFruit/static/js/main.3c341eb5.js.map",
+    "787.6e5773fd.chunk.js.map": "/myFruit/static/js/787.6e5773fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c341eb5.js"
+  ]
+}
