@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myFruit/static/css/main.073c9b0a.css",
-    "main.js": "/myFruit/static/js/main.b2036323.js",
+    "main.js": "/myFruit/static/js/main.f22422c1.js",
     "static/js/787.6e5773fd.chunk.js": "/myFruit/static/js/787.6e5773fd.chunk.js",
     "static/media/green_fr.png": "/myFruit/static/media/green_fr.bb8fe6b96d9ee61ca721.png",
     "static/media/slider_img.png": "/myFruit/static/media/slider_img.e67ecee5034e494baf25.png",
@@ -14,11 +14,11 @@
     "static/media/f3.png": "/myFruit/static/media/f3.f7c13b51170284d90770.png",
     "index.html": "/myFruit/index.html",
     "main.073c9b0a.css.map": "/myFruit/static/css/main.073c9b0a.css.map",
-    "main.b2036323.js.map": "/myFruit/static/js/main.b2036323.js.map",
+    "main.f22422c1.js.map": "/myFruit/static/js/main.f22422c1.js.map",
     "787.6e5773fd.chunk.js.map": "/myFruit/static/js/787.6e5773fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b2036323.js"
+    "static/js/main.f22422c1.js"
   ]
 }
